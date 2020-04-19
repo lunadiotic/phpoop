@@ -30,7 +30,7 @@ $elementary = new Elementary;
 echo "Elementary: {$elementary->total} <br/>";
 
 $junior = new Junior;
-echo "Junior: {$elementary->total} <br/>";
+echo "Junior: {$junior->total} <br/>";
 
 $senior = new Senior;
 echo "Senior: {$senior->total} <br/>";
